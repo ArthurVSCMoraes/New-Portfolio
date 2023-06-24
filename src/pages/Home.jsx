@@ -66,7 +66,7 @@ const MainDiv = styled.div`
   background-repeat: no-repeat;
   background-position: center center;
   // color: white;
-  mix-blend-mode: screen;
+  // mix-blend-mode: screen;
 `;
 
 const Main = styled.div`
