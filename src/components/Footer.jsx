@@ -19,5 +19,5 @@ justify-content: center;
 height: 5vh;
 background-color: black;
 color: white;
-font-size: 2px;
+font-size: 20px;
 `
